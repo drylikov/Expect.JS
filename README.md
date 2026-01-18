@@ -1,4 +1,3 @@
-
 # Expect
 
 Minimalistic BDD assertion toolkit based on
