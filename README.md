@@ -211,4 +211,3 @@ cd expect && npm install
 `make test-browser`
 
 and point your browser(s) to `http://localhost:3000`
-
